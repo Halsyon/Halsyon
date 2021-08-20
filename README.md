@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSlartiBartFast-art=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlartiBartFast-art)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlartiBartFast-art)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=SlartiBartFast-art)
+
 
 ## I'm a  learning FrontEnd Development
 

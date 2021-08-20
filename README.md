@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=SlartiBartFast-art)
 
 
-## I'm a  learning FrontEnd Development
+## I'm a  learning BackEnd Development
 
 - 🔭 I’m currently working on job4j_design
 - 🌱 I’m currently learning java

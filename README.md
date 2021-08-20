@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlartiBartFast-art)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlartiBartFast-art)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://komarev.com/ghpvc/?username=SlartiBartFast-art)
-
-
 ## I'm a  learning BackEnd Development
 
 - 🔭 I’m currently working on job4j_design
@@ -45,3 +37,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlartiBartFast-art)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlartiBartFast-art)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=SlartiBartFast-art)

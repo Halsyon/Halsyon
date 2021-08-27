@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on job4j_design
 - 🌱 I’m currently learning java
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I love to play guitar and play the guitar
 - 🥅 I am constantly learning new things
 
-- 🤹🏽 I like to shoot videos for youtube
+- 🤹🏽 I like to shoot videos
 <!--
 **SlartiBartFast-art/SlartiBartFast-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

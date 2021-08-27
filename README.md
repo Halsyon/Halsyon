@@ -2,10 +2,10 @@
 
 ## I'm a  learning BackEnd Development
 
-- 🔭 I’m currently working on job4j_design
+- 🔭 I’m currently working on job4j_threads
 - 🌱 I’m currently learning java
 - 💪 I like to write code
-- 🎉 I love to play guitar and play the guitar
+- 🎉 I love to play the guitar
 - 🥅 I am constantly learning new things
 
 - 🤹🏽 I like to shoot videos

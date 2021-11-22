@@ -2,13 +2,13 @@
 
 ## I'm a  learning BackEnd Development
 
-- 🔭 I’m currently working on job4j_threads
+- 🔭 I’m currently working on projects job4j_cars and job4j_todo
 - 🌱 I’m currently learning java
 - 💪 I like to write code
 - 🎉 I love to play the guitar
 - 🥅 I am constantly learning new things
 
-- 🤹🏽 I like to shoot videos
+- 🤹🏽 I like to take photos of landscapes
 <!--
 **SlartiBartFast-art/SlartiBartFast-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SlartiBartFast-art)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=SlartiBartFast-art)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)

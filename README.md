@@ -1,13 +1,31 @@
 ### Hi there 👋
 
+#### My projects:
+##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
+##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
+##### ⚡ [Urs shortcut](https://github.com/SlartiBartFast-art/job4j_url_shortcut) - Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
+##### ⚡ [Cinema Service](https://github.com/SlartiBartFast-art/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
+##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
+
+_____________________________________________
+##### ⚡ [Chat](https://github.com/SlartiBartFast-art/job4j_chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
+##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
+##### ⚡ [Pooh JMS](https://github.com/SlartiBartFast-art/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
+##### ⚡ [Json To Exel](https://github.com/SlartiBartFast-art/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
+##### ⚡ [Dream Job](https://github.com/SlartiBartFast-art/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
+##### ⚡ [TO DO](https://github.com/SlartiBartFast-art/job4j_todo) - My ToDo list implemetation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
+##### ⚡ [Job grabber](https://github.com/SlartiBartFast-art/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
+
 ## I'm a  learning BackEnd Development
 
-- 🔭 I’m currently working on projects job4j_forum and job4j_chat
+- 🔭 I’m currently working on projects job4j_synchronous_messaging
 - 🌱 I’m currently learning java
 - 💪 I like to write code
 - 🎉 I love to play the guitar
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to take photos of landscapes
+- 📫 How to reach me: ...
+- 💬 Ask me about ...
 <!--
 **SlartiBartFast-art/SlartiBartFast-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +35,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

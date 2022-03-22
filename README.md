@@ -1,22 +1,22 @@
-### Hi there 👋
+### I welcome you to my page 👋
 
 #### My projects:
 ##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
 ##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
 ##### ⚡ [Urs shortcut](https://github.com/SlartiBartFast-art/job4j_url_shortcut) - Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
-##### ⚡ [Cinema Service](https://github.com/SlartiBartFast-art/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
+##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
 ##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
 
 _____________________________________________
+##### ⚡ [Cinema Service](https://github.com/SlartiBartFast-art/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
 ##### ⚡ [Chat](https://github.com/SlartiBartFast-art/job4j_chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
-##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
 ##### ⚡ [Pooh JMS](https://github.com/SlartiBartFast-art/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
 ##### ⚡ [Json To Exel](https://github.com/SlartiBartFast-art/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
 ##### ⚡ [Dream Job](https://github.com/SlartiBartFast-art/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [TO DO](https://github.com/SlartiBartFast-art/job4j_todo) - My ToDo list implemetation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
 ##### ⚡ [Job grabber](https://github.com/SlartiBartFast-art/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
 
-## I'm a  learning BackEnd Development
+## I keep learning new things in BackEnd Development
 
 - 🔭 I’m currently working on projects job4j_synchronous_messaging
 - 🌱 I’m currently learning java
@@ -40,11 +40,13 @@ Here are some ideas to get you started:
 -->
 <br />
 
-### Языки и инструменты:
+### Основные используемые языки и инструменты:
 
 <img align = "left" alt = "Java" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align = "left" alt = "JavaScript" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align = "left" alt = "SQL" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align = "left" alt = "Hibernate" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/hibernate/hibernate.png" />
+<img align = "left" alt = "Spring" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" />
 <img align = "left" alt = "HTML5" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align = "left" alt = "CSS3" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 

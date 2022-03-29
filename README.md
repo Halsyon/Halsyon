@@ -24,7 +24,7 @@ _____________________________________________
 - 🎉 I love to play the guitar
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to take photos of landscapes
-- 📫 How to reach me: ...
+- 📫 How to reach me: adamsons057@gmail.com
 - 💬 Ask me about ...
 <!--
 **SlartiBartFast-art/SlartiBartFast-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

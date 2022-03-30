@@ -1,10 +1,10 @@
 ### I welcome you to my page 👋
 
 #### My projects:
-##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
-##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
-##### ⚡ [Urs shortcut](https://github.com/SlartiBartFast-art/job4j_url_shortcut) - Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
-##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
+##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
+##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
+##### ⚡ [Urs shortcut](https://github.com/SlartiBartFast-art/job4j_url_shortcut) - project Shortcut. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
+##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
 ##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
 ##### ⚡ [automated_accounting](https://github.com/SlartiBartFast-art/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web, Rest API), Maven, Travis C.I.
 ##### ⚡ [Cinema Service](https://github.com/SlartiBartFast-art/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).

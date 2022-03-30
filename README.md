@@ -2,7 +2,7 @@
 
 #### My projects:
 ##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
-##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
+##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
 ##### ⚡ [Urs shortcut](https://github.com/SlartiBartFast-art/job4j_url_shortcut) - project Shortcut. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
 ##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
 ##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.

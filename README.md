@@ -18,7 +18,8 @@ _____________________________________________
 
 ## I keep learning new things in BackEnd Development
 
-- 🔭 I’m currently working on projects job4j_synchronous_messaging
+- 🔭 I’m currently working on projects job4j_synchronous_messaging and automated_accounting
+
 - 🌱 I’m currently learning java
 - 💪 I like to write code
 - 🎉 I love to play the guitar

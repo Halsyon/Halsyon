@@ -19,15 +19,15 @@ _____________________________________________
 
 ## I keep learning new things in BackEnd Development
 
-- 🔭 I’m currently working on projects job4j_synchronous_messaging and automated_accounting
+- 🔭 I’m currently working on projects automated_accounting
 
 - 🌱 I’m currently learning java
 - 💪 I like to write code
-- 🎉 I love to play the guitar
+- 🎉 I love to play the guitar and Bushcraft
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to take photos of landscapes
 - 📫 How to reach me: adamsons057@gmail.com
-- 💬 Ask me about ...
+- 💬 Ask me about adamsons057@gmail.com
 <!--
 **SlartiBartFast-art/SlartiBartFast-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

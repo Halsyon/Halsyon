@@ -1,6 +1,8 @@
 ### I welcome you to my page 👋
 
 #### My projects:
+
+##### ⚡ [car_directory](https://github.com/SlartiBartFast-art/car_Directory) - The car catalog project is a service that provides the possibility of CRUD operations on data, with the ability to store all entities in a relational database. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), PostgreSQL, Docker, Maven, Travis C.I.
 ##### ⚡ [automated_accounting](https://github.com/SlartiBartFast-art/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web, Rest API), Maven, Travis C.I.
 ##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
 ##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
@@ -15,7 +17,7 @@ _____________________________________________
 ##### ⚡ [Dream Job](https://github.com/SlartiBartFast-art/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [TO DO](https://github.com/SlartiBartFast-art/job4j_todo) - My ToDo list implemetation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
 ##### ⚡ [Job grabber](https://github.com/SlartiBartFast-art/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
-##### ⚡ [weather_reactive](https://github.com/SlartiBartFast-art/weather_reactive) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven
+##### ⚡ [weather_reactive](https://github.com/SlartiBartFast-art/weather_reactive) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
 
 ## I keep learning new things in BackEnd Development
 

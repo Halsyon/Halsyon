@@ -2,8 +2,8 @@
 
 #### My projects:
 
-##### ⚡ [car_directory](https://github.com/SlartiBartFast-art/car_Directory) - The car catalog project is a service that provides the possibility of CRUD operations on data, with the ability to store all entities in a relational database. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), PostgreSQL, Docker, Maven, Travis C.I.
-##### ⚡ [automated_accounting](https://github.com/SlartiBartFast-art/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web, Rest API), Maven, Travis C.I.
+##### ⚡ [car directory](https://github.com/SlartiBartFast-art/car_Directory) - The car catalog project is a service that provides the possibility of CRUD operations on data, with the ability to store all entities in a relational database. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), PostgreSQL, Docker, Maven, Travis C.I.
+##### ⚡ [automated accounting](https://github.com/SlartiBartFast-art/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web, Rest API), Maven, Travis C.I.
 ##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
 ##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
 ##### ⚡ [Car market](https://github.com/SlartiBartFast-art/job4j_cars) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
@@ -21,7 +21,7 @@ _____________________________________________
 
 ## I keep learning new things in BackEnd Development
 
-- 🔭 I’m currently working on projects automated_accounting
+- 🔭 I’m currently working on projects flightscanner
 
 - 🌱 I’m currently learning java
 - 💪 I like to write code

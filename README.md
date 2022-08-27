@@ -2,6 +2,7 @@
 
 #### My projects:
 
+##### ⚡ [licence service](https://github.com/SlartiBartFast-art/licensing-service-View) - An application for licence service microservice framework. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), SpringCloud, Liquibase, H2, Docker, Maven, Travis C.I.
 ##### ⚡ [automated accounting](https://github.com/SlartiBartFast-art/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web), Liquibase, H2, Docker, Maven, Travis C.I.
 ##### ⚡ [car directory](https://github.com/SlartiBartFast-art/car_Directory) - The car catalog project is a server side of the application. Is a service that provides the possibility of operations on data, with the ability to store all entities in a relational database. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), PostgreSQL, Docker, Maven, Travis C.I.
 ##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.

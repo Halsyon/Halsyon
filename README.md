@@ -1,5 +1,8 @@
 ### I welcome you to my page 👋
 
+I'm a software developer. 
+I'm from Russia, currently working on client/server Java Developement.
+
 #### My projects:
 
 ##### ⚡ [licence service](https://github.com/SlartiBartFast-art/licensing-service-View) - An application for licence service microservice framework. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), SpringCloud, Liquibase, H2, Docker, Maven, Travis C.I.

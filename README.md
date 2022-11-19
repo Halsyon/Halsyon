@@ -36,7 +36,7 @@ I'm from Russia, currently working on client/server Java Developement.
 - 📫 How to reach me: adamsons057@gmail.com
 - 💬 Ask me about adamsons057@gmail.com
 <!--
-**SlartiBartFast-art/SlartiBartFast-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GrandEmetak/GrandEmetak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

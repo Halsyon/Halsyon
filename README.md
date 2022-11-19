@@ -5,23 +5,23 @@ I'm from Russia, currently working on client/server Java Developement.
 
 #### My projects:
 
-##### ⚡ [licence service](https://github.com/SlartiBartFast-art/licensing-service-View) - An application for licence service microservice framework. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), SpringCloud, Liquibase, H2, Docker, Maven, Travis C.I.
-##### ⚡ [automated accounting](https://github.com/SlartiBartFast-art/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web), Liquibase, H2, Docker, Maven, Travis C.I.
-##### ⚡ [car directory](https://github.com/SlartiBartFast-art/car_Directory) - The car catalog project is a server side of the application. Is a service that provides the possibility of operations on data, with the ability to store all entities in a relational database. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), PostgreSQL, Docker, Maven, Travis C.I.
-##### ⚡ [Synchronous messaging](https://github.com/SlartiBartFast-art/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
-##### ⚡ [Winger Bot](https://github.com/SlartiBartFast-art/Winged-Word-Bot) - Telegrem bot. Java Core, Telegram Bots Api, Spring Boot (Data JPA, Web), Maven - Build Tool, PostgreSQL (DB).
-##### ⚡ [Forum](https://github.com/SlartiBartFast-art/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
-##### ⚡ [Car market](https://github.com/SlartiBartFast-art/cars) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
-##### ⚡ [Car accident service](https://github.com/SlartiBartFast-art/job4j_car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
-##### ⚡ [Urs shortcut](https://github.com/SlartiBartFast-art/job4j_url_shortcut) - project Shortcut. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
-##### ⚡ [Cinema Service](https://github.com/SlartiBartFast-art/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
+##### ⚡ [licence service](https://github.com/GrandEmetak/licensing-service-View) - An application for licence service microservice framework. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), SpringCloud, Liquibase, H2, Docker, Maven, Travis C.I.
+##### ⚡ [automated accounting](https://github.com/GrandEmetak/automated_accounting) - An application for automating the accounting of goods in the warehouse of the store. Application uses REST API architecture. Java Core, JWT, Spring Boot(Data, Web), Liquibase, H2, Docker, Maven, Travis C.I.
+##### ⚡ [car directory](https://github.com/GrandEmetak/car_Directory) - The car catalog project is a server side of the application. Is a service that provides the possibility of operations on data, with the ability to store all entities in a relational database. Application uses REST API architecture. Java Core, Spring Boot(Data, Web), PostgreSQL, Docker, Maven, Travis C.I.
+##### ⚡ [Synchronous messaging](https://github.com/GrandEmetak/job4j_synchronous_messaging) - Simple synchronous messaging process using microservice architecture. Java, Spring Boot (REST API, Data, Security), Postgres, Postman.
+##### ⚡ [Winger Bot](https://github.com/GrandEmetak/Winged-Word-Bot) - Telegrem bot. Java Core, Telegram Bots Api, Spring Boot (Data JPA, Web), Maven - Build Tool, PostgreSQL (DB).
+##### ⚡ [Forum](https://github.com/GrandEmetak/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
+##### ⚡ [Car market](https://github.com/GrandEmetak/cars) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
+##### ⚡ [Car accident service](https://github.com/GrandEmetak/job4j_car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
+##### ⚡ [Urs shortcut](https://github.com/GrandEmetak/job4j_url_shortcut) - project Shortcut. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
+##### ⚡ [Cinema Service](https://github.com/GrandEmetak/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
 
-##### ⚡ [Json To Exel](https://github.com/SlartiBartFast-art/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
-##### ⚡ [Chat](https://github.com/SlartiBartFast-art/job4j_chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
-##### ⚡ [Pooh JMS](https://github.com/SlartiBartFast-art/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
-##### ⚡ [Dream Job](https://github.com/SlartiBartFast-art/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
-##### ⚡ [TO DO](https://github.com/SlartiBartFast-art/job4j_todo) - My ToDo list implementation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
-##### ⚡ [Job grabber](https://github.com/SlartiBartFast-art/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
+##### ⚡ [Json To Exel](https://github.com/GrandEmetak/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
+##### ⚡ [Chat](https://github.com/GrandEmetak/job4j_chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
+##### ⚡ [Pooh JMS](https://github.com/GrandEmetak/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
+##### ⚡ [Dream Job](https://github.com/GrandEmetak/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
+##### ⚡ [TO DO](https://github.com/GrandEmetak/job4j_todo) - My ToDo list implementation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
+##### ⚡ [Job grabber](https://github.com/GrandEmetak/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
 ##### ⚡ [weather_reactive](https://github.com/SlartiBartFast-art/weather_reactive) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
 
 ## I still continue to learn something new in backend development

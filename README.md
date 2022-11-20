@@ -33,8 +33,8 @@ I'm from Russia, currently working on client/server Java Developement.
 - 🎉 I love to play the guitar and Bushcraft
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to take photos of landscapes
-- 📫 How to reach me: adamsons057@gmail.com
-- 💬 Ask me about adamsons057@gmail.com
+- 📫 How to reach me: *@gmail.com
+- 💬 Ask me about *@gmail.com
 <!--
 **GrandEmetak/GrandEmetak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

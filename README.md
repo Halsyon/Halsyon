@@ -12,7 +12,7 @@ I'm from Russia, currently working on client/server Java Developement.
 ##### ⚡ [Winger Bot](https://github.com/GrandEmetak/Winged-Word-Bot) - Telegrem bot. Java Core, Telegram Bots Api, Spring Boot (Data JPA, Web), Maven - Build Tool, PostgreSQL (DB).
 ##### ⚡ [Forum](https://github.com/GrandEmetak/job4j_forum) - project Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
 ##### ⚡ [Car market](https://github.com/GrandEmetak/cars) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
-##### ⚡ [Car accident service](https://github.com/GrandEmetak/job4j_car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
+##### ⚡ [Car accident service](https://github.com/GrandEmetak/car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
 ##### ⚡ [Urs shortcut](https://github.com/GrandEmetak/job4j_url_shortcut) - project Shortcut. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
 ##### ⚡ [Cinema Service](https://github.com/GrandEmetak/job4j_cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
 

@@ -22,7 +22,7 @@ I am currently working on developing client-server Java applications.
 ##### ⚡ [Dream Job](https://github.com/GrandEmetak/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [TO DO](https://github.com/GrandEmetak/job4j_todo) - My ToDo list implementation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
 ##### ⚡ [Job grabber](https://github.com/GrandEmetak/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
-##### ⚡ [weather forecast app](https://github.com/GrandEmetak/weather_forecast_app) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
+##### ⚡ [Weather forecast app](https://github.com/GrandEmetak/weather_forecast_app) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
 
 ## I still continue to learn something new in backend development
 

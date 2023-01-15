@@ -21,7 +21,7 @@ I am currently working on developing client-server Java applications.
 ##### ⚡ [Pooh JMS](https://github.com/GrandEmetak/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
 ##### ⚡ [Work search website](https://github.com/GrandEmetak/App_work-search-website) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [App-To-Do](https://github.com/GrandEmetak/App-To-Do) - My ToDo list implementation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
-##### ⚡ [Job grabber](https://github.com/GrandEmetak/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
+##### ⚡ [App-vacancies-marketplace)](https://github.com/GrandEmetak/App-vacancies-marketplace) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
 ##### ⚡ [Weather forecast app](https://github.com/GrandEmetak/weather_forecast_app) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
 
 ## I still continue to learn something new in backend development

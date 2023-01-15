@@ -19,7 +19,7 @@ I am currently working on developing client-server Java applications.
 ##### ⚡ [Json To Exel](https://github.com/GrandEmetak/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
 ##### ⚡ [App-Chatter](https://github.com/GrandEmetak/App_chatter) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
 ##### ⚡ [Pooh JMS](https://github.com/GrandEmetak/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
-##### ⚡ [Dream Job](https://github.com/GrandEmetak/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
+##### ⚡ [Work search website](https://github.com/GrandEmetak/App_work-search-website) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [App-To-Do](https://github.com/GrandEmetak/App-To-Do) - My ToDo list implementation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
 ##### ⚡ [Job grabber](https://github.com/GrandEmetak/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
 ##### ⚡ [Weather forecast app](https://github.com/GrandEmetak/weather_forecast_app) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.

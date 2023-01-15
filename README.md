@@ -15,15 +15,14 @@ I am currently working on developing client-server Java applications.
 ##### ⚡ [Car market](https://github.com/GrandEmetak/Car-Sales-Website) - project Car Market. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
 ##### ⚡ [Car accident service](https://github.com/GrandEmetak/car_accident) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
 ##### ⚡ [Urs shortcut](https://github.com/GrandEmetak/url_shortcut) - project Shortcut. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
-##### ⚡ [Cinema Service](https://github.com/GrandEmetak/cinema) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
-
+##### ⚡ [Movie-Theater](https://github.com/GrandEmetak/Movie-Theater) -  Simple cinema tickets booking service. Java Servlets, Postgres, HTML, AJAX. Long polling implementation (async servlets).
 ##### ⚡ [Json To Exel](https://github.com/GrandEmetak/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
 ##### ⚡ [Chat](https://github.com/GrandEmetak/chat) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
 ##### ⚡ [Pooh JMS](https://github.com/GrandEmetak/job4j_pooh) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
 ##### ⚡ [Dream Job](https://github.com/GrandEmetak/job4j_dreamjob_1) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [TO DO](https://github.com/GrandEmetak/job4j_todo) - My ToDo list implementation. Java Servlets, Hibernate, Postgres, HTML, bootstrap, ajax.
 ##### ⚡ [Job grabber](https://github.com/GrandEmetak/job4j_grabber) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
-##### ⚡ [weather_reactive](https://github.com/GrandEmetak/weather_reactive) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
+##### ⚡ [weather forecast app](https://github.com/GrandEmetak/weather_forecast_app) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
 
 ## I still continue to learn something new in backend development
 

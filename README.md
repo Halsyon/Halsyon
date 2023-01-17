@@ -27,7 +27,7 @@ I am currently working on developing client-server Java applications.
 
 ## I still continue to learn something new in backend development
 
-- 🔭 I’m currently working on projects licence!
+- 🔭 I am currently working on projects - Licensing Services!
 
 - 🌱 I’m currently learning java
 - 💪 I like to write code

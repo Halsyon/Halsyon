@@ -27,7 +27,7 @@ I am currently working on developing client-server Java applications.
 
 ## I still continue to learn something new in backend development
 
-- 🔭 I’m currently working on projects Winger Bot
+- 🔭 I’m currently working on projects licence!
 
 - 🌱 I’m currently learning java
 - 💪 I like to write code
@@ -41,7 +41,7 @@ I am currently working on developing client-server Java applications.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on job4j_design
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halsyon)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=SlartiBartFast-art)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Halsyon)
 
 
 ## 😂 Here is a random joke that'll make you laugh!

@@ -81,7 +81,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Halsyon&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halsyon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halsyon)](https://github.com/Halsyon/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halsyon)](https://github.com/Halsyon/github-readme-stats)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Halsyon)

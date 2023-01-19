@@ -81,13 +81,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Halsyon&show_icons=true" />
 </picture>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halsyon)](https://github.com/Halsyon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halsyon&show_icons=true&theme=transparent)](https://github.com/Halsyon/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halsyon)](https://github.com/Halsyon/github-readme-stats)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Halsyon&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Halsyon/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Halsyon&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Halsyon/github-readme-stats#gh-light-mode-only)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Halsyon)

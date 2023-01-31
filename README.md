@@ -12,7 +12,7 @@ I am currently working on developing client-server Java applications.
 ##### ⚡ [Document-management](https://github.com/Halsyon/Document-management) - Document management Project. Service to deal with documents. Implemented synchronous messaging approach. Java, Spring Boot(web, data-jpa), Postgres, Maven, Lomboc, Swagger, Postman.
 ##### ⚡ [Bot phrase](https://github.com/Halsyon/App_Issuing-an-arbitrary-phrase) - Telegram bot. Java Core, Telegram Bots Api, Spring Boot (Data JPA, Web), Maven, PostgreSQL.
 ##### ⚡ [Web-Forum](https://github.com/Halsyon/web-forum) - project Web Forum. Classic application - forum. A place where people can talk about topics that interest them. Spring (Boot, Security, Data, MVC), Liquibase, jsp/bootstrap.
-##### ⚡ [Automobile marketplace](https://github.com/Halsyon/Car-Sales-Website) - project Automobile Marketplace. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
+##### ⚡ [Automobile marketplace](https://github.com/Halsyon/Automobile-marketplace) - project Automobile Marketplace. The project is a simplified version of the car sales website. Java Servlets, Hibernate, Postgres, HTML 5, Bootstrap, JS, ajax, GSON, hsqldb.
 ##### ⚡ [Road traffic violation](https://github.com/Halsyon/Road-traffic-violation) - project Car accident. The project presents a light version of the program for recording motor transport offenses. Java, Spring (MVC, Data, Security), Postgres, JSP, Bootstrap.
 ##### ⚡ [Work search website](https://github.com/Halsyon/App_work-search-website) - Java Servlets, Postgres, HTML, ajax, Mockito.
 ##### ⚡ [Link converter](https://github.com/Halsyon/Link-converter) - project link converter. The service allows you to ensure the safety of users on the site by replacing regular links with converted ones. Spring Boot (Security, Data, Web, tomcat), Postgres, JWT.
@@ -20,12 +20,12 @@ I am currently working on developing client-server Java applications.
 ##### ⚡ [Exel parser](https://github.com/Halsyon/json_to_exel) - Simple converter json to exel file. Java Сore, Apache POI, Jackson, Lombok.
 ##### ⚡ [App-Chatter](https://github.com/Halsyon/App_chatter) - Api for simple Chat application. Spring (Boot, Data, MVC, Security (JWT), AOP), Postgres, Junit, Mockito.
 ##### ⚡ [Asynchronous queue](https://github.com/Halsyon/Asynchronous-queue) - My Rabbit MQ implementation based on Java Core, Concurrent, ThreadPool, IO.
-##### ⚡ [App-vacancies-marketplace)](https://github.com/Halsyon/App-vacancies-marketplace) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
+##### ⚡ [App-vacancies-marketplace](https://github.com/Halsyon/App-vacancies-marketplace) - Parse vacancies from an aggregator site by keyword. Java Сore, quartz-scheduler, jdbc, Postgres.
 ##### ⚡ [Weather forecast app](https://github.com/Halsyon/weather_forecast_app) - A simple weather forecast app. It will work in reactive programming mode. Spring Boot(WebFlux), Maven.
 
 ## I still continue to learn something new in backend development
 
-- 🔭 I am currently working on projects - Licensing Services!
+- 🔭 I am currently working on projects - Certificating-service!
 
 - 🌱 I’m currently learning java
 - 💪 I like to write code

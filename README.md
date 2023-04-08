@@ -27,7 +27,7 @@ I am currently working on developing client-server Java applications.
 
 - 🔭 I am currently working on projects - Certificating-service!
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java, Kotlin 
 - 💪 I like to write code
 - 🎉 I love to play the guitar and Bushcraft
 - 🥅 I am constantly learning new things
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 ### Основные используемые языки:
 
 <img align = "left" alt = "Java" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align = "left" alt = "Kotlin" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align = "left" alt = "JavaScript" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align = "left" alt = "SQL" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align = "left" alt = "HTML5" width = "35px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

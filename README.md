@@ -1,7 +1,7 @@
 ### I welcome you to my page 👋
 
 I'm a software developer. 
-I am currently working on developing client-server Java applications.
+I am currently working on developing client-server Java or Kotlin applications.
 
 #### My projects:
 
@@ -32,8 +32,8 @@ I am currently working on developing client-server Java applications.
 - 🎉 I love to play the guitar and Bushcraft
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to take photos of landscapes
-- 📫 How to reach me: grandjek@tutanota.com
-- 💬 Ask me about grandjek@tutanota.com
+- 📫 How to reach me: regulus8@outlook.com
+- 💬 Ask me about regulus8@outlook.com
 <!--
 **Halsyon/Halsyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

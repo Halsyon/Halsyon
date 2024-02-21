@@ -1,6 +1,7 @@
 ### I welcome you to my page 👋
 
 I'm a software developer. 
+
 I am currently working on developing client-server Java or Kotlin applications.
 
 #### My projects:
@@ -27,7 +28,7 @@ I am currently working on developing client-server Java or Kotlin applications.
 
 - 🔭 I am currently working on projects - Certificating-service!
 
-- 🌱 I’m currently learning Java, Kotlin 
+- 🌱 Currently I am working with the programming languages Java, Kotlin.
 - 💪 I like to write code
 - 🎉 I love to play the guitar and Bushcraft
 - 🥅 I am constantly learning new things

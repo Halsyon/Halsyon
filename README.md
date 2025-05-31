@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=👋; Hey+There!; I+am+Halsyon+Software+Developer!;" />
+</h1>
+
+
 ### I welcome you to my page 👋
 
 I'm a software developer. 
@@ -73,7 +78,17 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halsyon&layout=compact)](https://github.com/Halsyon/github-readme-stats)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Halsyon)
-
+<div align="Left"> 
+  <a href="mailto:example_@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://t.me/example8">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Halsyon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)

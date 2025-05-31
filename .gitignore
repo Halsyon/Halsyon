@@ -20,6 +20,9 @@ target/
 *.ipr
 *.txt
 /logs/
+dbnavigator.xml
+!**/src/main/**/.idea/
+!**/src/test/**/.idea/
 
 ### NetBeans ###
 /nbproject/private/
